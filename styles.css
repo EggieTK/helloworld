@@ -1,0 +1,22 @@
+body { 
+    color:rgb(61, 34, 124);
+}
+
+.greenborder {
+    border: 3px solid rgb(12, 160, 12);
+}
+
+.background {
+    background-color:yellowgreen;
+}
+main{background-color:rgba(160, 206, 196, 0.966)}
+
+.backgroundextra {background-color: goldenrod;}
+
+footer {
+    font-style: italic }
+
+
+
+
+  
