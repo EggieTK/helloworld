@@ -3,20 +3,36 @@ body {
 }
 
 .greenborder {
-    border: 3px solid rgb(12, 160, 12);
+    border: 7px groove rgb(12, 160, 12);
+    margin: 25px 50px
+    
 }
 
 .background {
-    background-color:yellowgreen;
+    background-color:rgb(236, 169, 183);
 }
-main{background-color:rgba(160, 206, 196, 0.966)}
+.backgrounda {background-color:rgba(201, 218, 221, 0.966)
+}
 
-.backgroundextra {background-color: goldenrod;}
+.backgroundb {background-color: rgb(240, 215, 154);}
+
+.container{border:7px groove rgb(12, 160, 12); margin:0 auto;width:500px ;}
+
+
+header {
+  padding: 10px 30px 10px 50px;
+}
+
+main {
+  padding: 10px 50px;
+}
 
 footer {
-    font-style: italic }
+  padding: 10px 30px 10px 50px;
+}
+ul{ list-style-type:none;margin:50px;padding:0;}
 
 
 
-
-  
+li {
+   display: inline;}
